@@ -27,5 +27,5 @@
 
 
 ### Tableau dashboard
-- [Customer Behavior Analysis Dashboard](https://public.tableau.com/app/profile/nikhil.advani/viz/CustomerBehaviorAnalyticsDashboard/Dashboard1)
+- [Customer Behavior Analysis Dashboard](https://public.tableau.com/views/CustomerBehaviorAnalyticsDashboard_17380180350950/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 - Clicking on the link will take you to the dashboard

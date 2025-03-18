@@ -11,7 +11,7 @@
 
 1. Open `DMQL Phase 1.ipynb`.
 2. Install dependencies if needed
-3. Execute cells sequentially to create tables and import data from 'dunnhumby_Let's-Get-Sort-of-Real-(Sample-5K-customers)'.
+3. Execute cells sequentially to create tables and import data from 'Datafile'.
 
 
 ### Phase 2: Execute Queries
