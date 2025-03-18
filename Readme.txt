@@ -4,7 +4,7 @@
 
 1. `DMQL Phase 1.ipynb`: Build tables and import data.
 2. `DMQL Phase 2.ipynb`: Execute queries on the database.
-3. 'dunnhumby_Let's-Get-Sort-of-Real-(Sample-5K-customers)' : Folder with data
+3. 'Datafile' : Folder with data
 ## Instructions
 
 ### Phase 1: Build Tables and Import Data
